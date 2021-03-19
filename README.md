@@ -15,4 +15,4 @@ PATCH: http://localhost:8000/api/user/{id}
 
 - Excluindo um usuário
 DELETE: http://localhost:8000/api/user/{id} 
-  keys: name, email, password
+  
